@@ -6,7 +6,7 @@ env:
   testID: "14135112"
   continuePipeline: "false"
   showTailLog: "false"
-  ACTIONS_STEP_DEBUG: "true"
+  ACTIONS_STEP_DEBUG: true
 
 on:
   push:
